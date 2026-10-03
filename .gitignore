@@ -1,0 +1,14 @@
+# Chiave privata e certificato di laboratorio: si rigenerano (vedi server/README.md)
+key.pem
+cert.pem
+
+# Log prodotto dal server a ogni esecuzione
+server_log.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# File di sistema
+.DS_Store
+Thumbs.db
