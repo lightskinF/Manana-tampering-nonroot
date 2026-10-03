@@ -1,6 +1,6 @@
 # Manana in modalità non-root: esperimento con server di riferimento
 
-Materiale di accompagnamento della tesi di Fabio Greco, <TO DO: TITOLO DELLA TESI da aggiungere...> (<Università degli Studi di Napoli Federico II>, <2026>).
+Materiale di accompagnamento della tesi di Fabio Greco, Università degli Studi di Napoli Federico II, 2026.
 Contiene il server di riferimento, i dati dell'esperimento controllato (Capitolo 3, paragrafo 3.2) e gli
 script che ricalcolano i numeri riportati nella tesi.
 
