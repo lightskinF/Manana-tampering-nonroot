@@ -1,6 +1,6 @@
 # Manana in modalità non-root: esperimento con server di riferimento
 
-Materiale di accompagnamento della tesi di Fabio Greco, Università degli Studi di Napoli Federico II, 2026.
+Materiale di accompagnamento della tesi di Fabio Greco, <TITOLO DELLA TESI> (<ATENEO>, <ANNO>).
 Contiene il server di riferimento, i dati dell'esperimento controllato (Capitolo 3, paragrafo 3.2) e gli
 script che ricalcolano i numeri riportati nella tesi.
 
@@ -41,8 +41,9 @@ Istruzioni, scenari e generazione del certificato in `server/README.md`.
   inviato dalla controparte e uno iniettato da un terzo non si distinguono.
 - L'esperimento è locale e usa una sola combinazione di applicazione e dispositivo (Chrome nell'emulatore Android).
   Il riconoscimento degli scenari è un controllo di coerenza, non una misura della capacità di rilevamento.
-- Le catture reali della fase esplorativa non sono pubblicate, perché contengono il traffico completo del
-  dispositivo. Sono disponibili su richiesta; la firma può essere applicata a catture proprie con `applica_firma.py`.
+- Le catture reali del paragrafo 3.3 sono in `dati/catture_reali/` (con due siti non pertinenti oscurati). Le catture
+  della fase esplorativa (paragrafo 3.1) non sono pubblicate, perché contengono il traffico completo del dispositivo;
+  la firma può essere applicata a catture proprie con `applica_firma.py`.
 
 ## Versione citata nella tesi
 

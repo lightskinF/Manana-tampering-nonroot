@@ -25,7 +25,7 @@ I file sono quelli prodotti dagli strumenti, non modificati. Note per l'uso:
 - Contenuto: traffico di Chrome verso il server di laboratorio (`10.0.2.2`) e traffico di sistema dell'emulatore
   (servizi Google, YouTube Music). Non compaiono altri siti o applicazioni.
 
-## Catture reali
+## catture_reali/
 
-Le catture della fase esplorativa (paragrafo 3.3) non sono pubblicate: contengono il traffico completo del
-dispositivo. Sono disponibili su richiesta.
+Catture del paragrafo 3.3 (due blocchi reali: DNS in Italia, interruzione dopo il ClientHello dalla Turchia), con due
+siti non pertinenti oscurati. Descrizione e comandi per riprodurre le Tabelle 3.5 e 3.6 in `catture_reali/README.md`.
