@@ -1,6 +1,6 @@
 # Manana in modalità non-root: esperimento con server di riferimento
 
-Materiale di accompagnamento della tesi di Fabio Greco, <TITOLO DELLA TESI> (<ATENEO>, <ANNO>).
+Materiale di accompagnamento della tesi di Fabio Greco, *Caratterizzazione e diagnostica passiva della censura di rete: progettazione di metodologie euristiche e valutazione sperimentale in ambiente Android non-root* (Università degli Studi di Napoli Federico II, Corso di Laurea in Ingegneria Informatica, A.A. 2025/2026).
 Contiene il server di riferimento, i dati dell'esperimento controllato (Capitolo 3, paragrafo 3.2) e gli
 script che ricalcolano i numeri riportati nella tesi.
 
